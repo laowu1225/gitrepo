@@ -1,0 +1,12 @@
+设备标示：A8
+
+cmd：
+
+start  0x10
+stop   0x11
+reset  0x12
+
+start 之后
+A8 10 0d 0a XX XX XX
+起始位：A8 8A  xx  xx  xx xx xx  .......
+
